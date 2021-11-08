@@ -3,8 +3,6 @@
 ## (c) 2021
 ## Material for MMF Stochastic Analysis - Fall 2021
 ################
-
-
 import numpy as np
 
 import core_math_utilities as dist
